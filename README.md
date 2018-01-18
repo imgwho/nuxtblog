@@ -1,4 +1,7 @@
 # nuxtblog
+## copy from 
+## https://github.com/olayinkaos/nuxt-ssr-blog.git
+thanks a lot
 
 > Nuxt.js project
 
